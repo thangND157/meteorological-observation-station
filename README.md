@@ -1,8 +1,8 @@
-# Trạm quan trắc - Monitoring Station
+# Trạm quan trắc - Meteorological observation station
 
-Xây dựng một hệ thống trạm quan trắc có thể đo được các thông số môi trường và theo dõi được thông qua internet.
+Xây dựng một mô hình trạm quan trắc có thể đo được các thông số môi trường và theo dõi được thông qua internet.
 
-*Building a monitoring station system that can measure environmental parameters and view them via the internet.*
+*Building a model of meteorological observation station that can measure environmental parameters and view them via the internet.*
 
 ## Các thông số đo và linh kiện sử dụng - Measurement parameters and components used
 
