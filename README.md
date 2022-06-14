@@ -29,3 +29,27 @@ Các cảm biến được sử dụng:
 ##### Cảm biến GP2Y1010AU0F - Nồng bụi trong không khi
 ##### GP2Y1010AU0F sensor - Dust concentration
 
+Các linh kiện khác:
+
+*Other components:*
+
+* PIC16F877A
+* LCD 20x4
+* ESP8266 ESP-01S
+* Điện trở, tụ điện, thạch anh... (Resistors, capacitors, quartz...)
+
+## Sơ đồ mạch - Schematic diagram
+
+Sơ đồ khối:
+
+*Block diagram:*
+
+![image](https://user-images.githubusercontent.com/94043610/173498388-e883a330-8eb6-4a1c-b6c9-718ceb0a47bb.png)
+
+Sơ đồ mạch chi tiết
+
+*Schematic diagram:*
+
+![image](https://user-images.githubusercontent.com/94043610/173498469-9dacbda0-4565-450f-aac2-69d4b8172543.png)
+
+## Sơ đồ mạch - Schematic diagram
