@@ -52,4 +52,67 @@ Sơ đồ mạch chi tiết
 
 ![image](https://user-images.githubusercontent.com/94043610/173498469-9dacbda0-4565-450f-aac2-69d4b8172543.png)
 
-## Sơ đồ mạch - Schematic diagram
+Sử dụng file `proteus.pdsprj` để mô phỏng.
+
+*Use the file `proteus.pdsprj` for simulation.*
+
+## Phần mềm - Software
+
+Lưu đồ:
+
+*Flowchart:*
+
+![image](https://user-images.githubusercontent.com/94043610/173502008-5baf36da-f287-4bdd-ab53-5fc088676a17.png)
+
+
+Giao tiếp phần cứng:
+
+*Hardware interface:*
+
+* DHT11: 1-wire
+* ML8511: analog
+* GP2Y1010AU0F: analog
+* LCD 20x4: 4-bit
+* ESP8266 ESP-01S: UART (AT Command)
+
+Xem thêm tại file `main.c`
+
+*See more in flie `main.c`*
+
+## Web và App - Web and App
+
+Sử dụng `000webhostapp.com` để lưu trữ dữ liệu được gửi lên.
+
+Using `000webhostapp.com` to store submitted data.
+
+* Web:
+
+Sử dụng HTML, CSS và JS
+
+Using HTML, CSS and JS
+* App:
+
+Sử dụng Kođular
+
+Using Kodular
+
+## Kết quả - Result
+
+Kết quả hiển thị trên LCD:
+
+*Results are displayed on LCD:*
+
+![image](https://user-images.githubusercontent.com/94043610/173503056-244d623d-8d8e-4be3-a1ad-3802246cfdc3.png)
+
+Kết quả trên web:
+
+*Results on website*
+
+![image](https://user-images.githubusercontent.com/94043610/173503559-aff64f8a-4197-4632-864e-8d080a9d53cb.png)
+
+Kết quả trên ứng dụng điện thoại:
+
+*Results on mobile app*
+
+![image](https://user-images.githubusercontent.com/94043610/173503758-7d4e9cec-9a46-4bfa-a29b-652fcefc3d7d.png)
+
