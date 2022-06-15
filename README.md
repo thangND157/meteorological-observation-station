@@ -96,7 +96,7 @@ Sử dụng Kođular
 
 Using Kodular
 
-## Kết quả - Result
+## Kết quả - Results
 
 Kết quả hiển thị trên LCD:
 
