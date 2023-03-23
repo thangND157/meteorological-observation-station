@@ -81,20 +81,20 @@ Xem thêm tại file `main.c`
 
 ## Web và App - Web and App
 
-Sử dụng `000webhostapp.com` để lưu trữ dữ liệu được gửi lên.
+Sử dụng [000webhostapp](https://vn.000webhost.com) để lưu trữ dữ liệu được gửi lên.
 
-Using `000webhostapp.com` to store submitted data.
+*Using [000webhostapp](https://vn.000webhost.com) to store submitted data.*
 
 * Web:
 
 Sử dụng HTML, CSS và JS
 
-Using HTML, CSS and JS
+*Using HTML, CSS and JS*
 * App:
 
 Sử dụng Kođular
 
-Using Kodular
+*Using Kodular*
 
 ## Kết quả - Results
 
